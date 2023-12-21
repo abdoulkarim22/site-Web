@@ -13,7 +13,7 @@
     --transition: all 0.5s ease;
 }
 .logo{
-    width: 130px;
+    width: 50px;
     border-radius: 100%;
 }
 
@@ -328,3 +328,26 @@ footer .line {
      height: 20rem;
 }
 
+
+.carousel-item img{
+    height: 20rem;
+    border-radius: 20px;
+    width: 30rem;
+}
+.carousel-inner{
+    width: 20rem;
+    display: flex;
+}
+#carouselExample{
+    display: flex;
+    justify-content: center;
+}
+#carouselExampleControlsNoTouching{
+    display: flex;
+    justify-content: center;
+}
+.logoParte{
+    width: 200px !important;
+    height: 200px !important;
+    margin-left: 60px;
+}
